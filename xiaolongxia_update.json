@@ -1,5 +1,5 @@
 {
   "version": "4.0.1",
-  "url": "https://c-juntao.github.io/xiaolongxia-update/xiaolongxia_v4.0.1.exe",
-  "changelog": "- 优化了底层的防死锁机制\n- 新增了强力端口释放功能\n- 全新设计的桌面级自动升级体验！"
+  "url": "https://c-juntao.github.io/xiaolongxia-update/xiaolongxia_v4.0.2.exe",
+  "changelog": "- 优化了自动更新\n- 全新设计的桌面级自动升级体验！"
 }
